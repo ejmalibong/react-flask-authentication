@@ -27,7 +27,7 @@ export const other = {
             id: 'documentation',
             title: 'Source Code',
             type: 'item',
-            url: 'https://github.com/app-generator/react-flask-authentication',
+            url: 'https://github.com/ejmalibong/react-flask-authentication',
             icon: icons['IconDownload'],
             external: true,
             target: true

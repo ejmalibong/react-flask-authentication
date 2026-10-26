@@ -163,7 +163,7 @@ const FirebaseRegister = ({ ...others }) => {
 
             <Formik
                 initialValues={{
-                    email: 'info@codedthemes.com',
+                    email: 'efraimjoshuamalibong@gmail.com',
                     password: '123456',
                     submit: null
                 }}

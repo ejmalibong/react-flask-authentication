@@ -19,4 +19,4 @@
 - React UI
   - Docker Support
   - Added JWT Authentication
-  - UI: Berry v1.3.0 (free version)
+  - UI: Stello

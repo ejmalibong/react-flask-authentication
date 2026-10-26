@@ -1,10 +1,10 @@
 # React UI 
 
-**Berry** is a creative **[React Dashboard](https://appseed.us/product/react-node-js-berry-dashboard)** build using the Material-UI. It is meant to be the best User Experience with highly customizable feature-riched pages. It is a complete game-changer **React Dashboard** with an easy and intuitive responsive design as on retina screens or laptops. The product comes with a simple JWT authentication flow: `login`/`register`/`logout` powered by an open-source **Node JS API** Backend via `Passport` Library.
+**Stello** is a creative **[React Dashboard](https://github.com/ejmalibong/react-flask-authentication)** build using the Material-UI. It is meant to be the best User Experience with highly customizable feature-riched pages. It is a complete game-changer **React Dashboard** with an easy and intuitive responsive design as on retina screens or laptops. The product comes with a simple JWT authentication flow: `login`/`register`/`logout` powered by an open-source **Node JS API** Backend via `Passport` Library.
 
 > Features
 
-- Modern aesthetics UI design - Designed by *CodedThemes*
+- Modern aesthetics UI design - Designed by *Stello*
 - React, Redux, Redux-persist
 - Authentication: JWT Login/Register/Logout
 
@@ -15,7 +15,7 @@
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/react-flask-authentication.git
+$ git clone https://github.com/ejmalibong/react-flask-authentication.git
 $ cd react-flask-authentication/react-ui
 ```
 
@@ -31,7 +31,7 @@ Visit `http://localhost:3000` in your browser. The React UI should be up & runni
 
 <br />
 
-![React Nodejs Berry - Open-source full-stack seed project crafted by CodedThemes and AppSeed.](https://user-images.githubusercontent.com/51070104/137620059-07547eb2-0e7c-45e3-b825-67f5c72e4d3e.gif)
+![Stello - Open-source full-stack seed project crafted by Stello.](https://user-images.githubusercontent.com/51070104/137620059-07547eb2-0e7c-45e3-b825-67f5c72e4d3e.gif)
 
 <br >
 
@@ -42,7 +42,7 @@ To use the product Node JS (>= 12.x) is required and GIT to clone/download the p
 **Step #1** - Clone the project
 
 ```bash
-$ git clone https://github.com/app-generator/react-flask-authentication.git
+$ git clone https://github.com/ejmalibong/react-flask-authentication.git
 $ cd react-flask-authentication/react-ui
 ```
 
@@ -84,4 +84,4 @@ const config = {
 <br />
 
 ---
-**React UI** - provided by AppSeed [App Generator](https://appseed.us)
+**React UI** - provided by Stello(https://github.com/ejmalibong)

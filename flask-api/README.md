@@ -1,13 +1,13 @@
 ## Flask API Server
 
-Flask Starter with JWT authentication, and **SQLite** persistance - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
+Flask Starter with JWT authentication, and **SQLite** persistance - Provided by **Stello**(https://github.com/ejmalibong).
 It has all the ready-to-use bare minimum essentials.
 
 <br />
 
 > Features:
 
-- [API Definition](https://docs.appseed.us/boilerplate-code/api-unified-definition) - the unified API structure implemented by this server
+- [API Definition](https://github.com/ejmalibong/react-flask-authentication) - the unified API structure implemented by this server
 - Simple, intuitive codebase - can be extended with ease. 
 - Flask-restX, Flask-jwt_extended
 - Docker, Unitary tests
@@ -19,7 +19,7 @@ It has all the ready-to-use bare minimum essentials.
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/react-flask-authentication.git
+$ git clone https://github.com/ejmalibong/react-flask-authentication.git
 $ cd react-flask-authentication/flask-api
 ```
 
@@ -35,7 +35,7 @@ Visit `http://localhost:5000` in your browser. The app should be up & running.
 
 <br />
 
-![Flask API Server - Open-source Flask Starter provided by AppSeed.](https://user-images.githubusercontent.com/51070104/126349643-264d4cf4-6d0b-4c24-8185-adf69409fa4e.png)
+![Flask API Server - Open-source Flask Starter provided by Stello.](https://user-images.githubusercontent.com/51070104/126349643-264d4cf4-6d0b-4c24-8185-adf69409fa4e.png)
 
 <br />
 
@@ -51,7 +51,7 @@ Visit `http://localhost:5000` in your browser. The app should be up & running.
 **Step #1** - Clone the project
 
 ```bash
-$ git clone https://github.com/app-generator/react-flask-authentication.git
+$ git clone https://github.com/ejmalibong/react-flask-authentication.git
 $ cd react-flask-authentication/flask-api
 ```
 
@@ -120,7 +120,7 @@ api-server-flask/
 
 ## API
 
-For a fast set up, use this POSTMAN file: [api_sample](https://github.com/app-generator/api-server-nodejs-pro/blob/master/media/api.postman_collection.json)
+For a fast set up, use this POSTMAN file: [api_sample](https://github.com/ejmalibong/react-flask-authentication/blob/master/media/api.postman_collection.json)
 
 > **Register** - `api/users/register` (**POST** request)
 
@@ -131,7 +131,7 @@ Content-Type: application/json
 {
     "username":"test",
     "password":"pass", 
-    "email":"test@appseed.us"
+    "email":"test@stello.dev"
 }
 ```
 
@@ -145,7 +145,7 @@ Content-Type: application/json
 
 {
     "password":"pass", 
-    "email":"test@appseed.us"
+    "email":"test@stello.dev"
 }
 ```
 
@@ -181,4 +181,4 @@ Run tests using `pytest tests.py`
 <br />
 
 ---
-**Flask API Server** - provided by AppSeed [App Generator](https://appseed.us)
+**Flask API Server** - provided by Stello(https://github.com/ejmalibong)

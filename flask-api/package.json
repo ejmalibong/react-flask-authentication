@@ -5,13 +5,13 @@
     "scripts": {},
     "repository": {
         "type": "git",
-        "url": "https://github.com/app-generator/api-server-flask"
+        "url": "https://github.com/ejmalibong/react-flask-authentication"
     },
     "bugs": {
-        "url": "https://github.com/app-generator/api-server-flask/issues",
-        "email": "support@appseed.us"
+        "url": "https://github.com/ejmalibong/react-flask-authentication/issues",
+        "email": "efraimjoshuamalibong@gmail.com"
     },
-    "author": "AppSeed App Generator <support@appseed.us> (https://appseed.us)",
+    "author": "Stello <efraimjoshuamalibong@gmail.com> (https://github.com/ejmalibong)",
     "engines": {
         "node": ">=10.0.0"
     },

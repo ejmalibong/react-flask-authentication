@@ -64,7 +64,7 @@ const UpgradePlanCard = () => {
                 <Grid container direction="column" spacing={2}>
                     <Grid item>
                         <Typography variant="h4">
-                            React Nodejs Berry
+                            Stello
                         </Typography>
                     </Grid>
                     <Grid item>
@@ -77,7 +77,7 @@ const UpgradePlanCard = () => {
                             <AnimateButton>
                                 <Button
                                     component={Link}
-                                    href="https://appseed.us/product/react-node-js-berry-dashboard"
+                                    href="https://github.com/ejmalibong/react-flask-authentication"
                                     target="_blank"
                                     variant="contained"
                                     className={classes.button}

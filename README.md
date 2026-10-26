@@ -1,11 +1,11 @@
-# [React Flask Authentication](https://blog.appseed.us/react-flask-authentication/)
+# [React Flask Authentication](https://github.com/ejmalibong/react-flask-authentication)
 
-Open-source full-stack seed project that uses a `React UI` powered by a simple `Flask API Server`. **[React Flask Authentication](https://blog.appseed.us/react-flask-authentication/)** sample can be used to bootstrap fast a new project using a tested `development-ready` stack or simply for eLearning purposes by beginners. For newcomers, **React** is a popular Javascript library for coding user interfaces baked by Facebook and Flask is a leading web framework written in Python. 
+Open-source full-stack seed project that uses a `React UI` powered by a simple `Flask API Server`. **[React Flask Authentication](https://github.com/ejmalibong/react-flask-authentication)** sample can be used to bootstrap fast a new project using a tested `development-ready` stack or simply for eLearning purposes by beginners. For newcomers, **React** is a popular Javascript library for coding user interfaces baked by Facebook and Flask is a leading web framework written in Python. 
 
 > Links
 
-- [React Flask Authentication](https://react-flask-authentication.appseed-srv1.com/) - LIVE Demo
-- LIVE [Support](https://react-flask-authentication.appseed-srv1.com/) via [Discord](https://discord.gg/fZC6hup) - provided by AppSeed
+- [React Flask Authentication](https://github.com/ejmalibong/react-flask-authentication) - LIVE Demo
+- [Support](https://github.com/ejmalibong/react-flask-authentication) — provided by Stello
 
 <br />
 
@@ -14,7 +14,7 @@ Open-source full-stack seed project that uses a `React UI` powered by a simple `
 > Clone/Download the source code
 
 ```bash
-$ git clone  https://github.com/app-generator/react-flask-authentication.git
+$ git clone  https://github.com/ejmalibong/react-flask-authentication.git
 ```
 
 <br />
@@ -46,7 +46,7 @@ After we register a new user and signIN, all the private pages become accessible
 
 <br />
 
-![React Flask Authentication - Open-source full-stack seed project crafted by CodedThemes and AppSeed.](https://user-images.githubusercontent.com/51070104/137620059-07547eb2-0e7c-45e3-b825-67f5c72e4d3e.gif)
+![React Flask Authentication - Open-source full-stack seed project crafted by Stello.](https://user-images.githubusercontent.com/51070104/137620059-07547eb2-0e7c-45e3-b825-67f5c72e4d3e.gif)
 
 <br />
 
@@ -129,7 +129,7 @@ const config = {
 
 ## API
 
-For a fast set up, use this POSTMAN file: [api_sample](https://github.com/app-generator/api-server-nodejs-pro/blob/master/media/api.postman_collection.json)
+For a fast set up, use this POSTMAN file: [api_sample](https://github.com/ejmalibong/react-flask-authentication/blob/master/media/api.postman_collection.json)
 
 > **Register** - `api/users/register` (**POST** request)
 
@@ -140,7 +140,7 @@ Content-Type: application/json
 {
     "username":"test",
     "password":"pass", 
-    "email":"test@appseed.us"
+    "email":"test@stello.dev"
 }
 ```
 
@@ -154,7 +154,7 @@ Content-Type: application/json
 
 {
     "password":"pass", 
-    "email":"test@appseed.us"
+    "email":"test@stello.dev"
 }
 ```
 
@@ -196,10 +196,10 @@ authorization: JWT_TOKEN (returned by Login request)
 
 ## Links & Resources
 
-- Ask for [Support](https://appseed.us/support) on [Discord](https://discord.gg/fZC6hup)
-- See for [React Starters](https://appseed.us/apps/react) - index provided by AppSeed
+- Ask for [Support](https://github.com/ejmalibong)
+- See for [React Starters](https://github.com/ejmalibong) - index provided by Stello
 
 <br />
 
 ---
-**[React Flask Authentication](https://blog.appseed.us/react-flask-authentication/)** - Open-source full-stack seed project provided by **AppSeed [App Generator](https://appseed.us/)**
+**[React Flask Authentication](https://github.com/ejmalibong/react-flask-authentication)** — open-source full-stack seed project provided by **[Stello](https://github.com/ejmalibong)**

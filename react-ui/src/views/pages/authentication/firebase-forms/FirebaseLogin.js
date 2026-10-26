@@ -148,7 +148,7 @@ const FirebaseLogin = (props, { ...others }) => {
 
             <Formik
                 initialValues={{
-                    email: 'info@codedthemes.com',
+                    email: 'efraimjoshuamalibong@gmail.com',
                     password: '123456',
                     submit: null
                 }}
@@ -158,9 +158,9 @@ const FirebaseLogin = (props, { ...others }) => {
                 })}
                 onSubmit={async (values, { setErrors, setStatus, setSubmitting }) => {
                     axios
-                        .post('https://api-server-nodejs.appseed.us/api/users/login', {
-                            firstName: 'Fred',
-                            lastName: 'Flintstone'
+                        .post('http://localhost:5000/api/users/login', {
+                            firstName: 'EJ',
+                            lastName: 'Malibong'
                         })
                         .then(function (response) {
                             console.log(response);

@@ -77,7 +77,7 @@ const UpgradePlanCard = () => {
                             <AnimateButton>
                                 <Button
                                     component={Link}
-                                    href="https://appseed.us/apps/react"
+                                    href="https://github.com/ejmalibong"
                                     target="_blank"
                                     variant="contained"
                                     className={classes.button}
